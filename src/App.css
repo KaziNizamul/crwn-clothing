@@ -1,3 +1,11 @@
+body {
+  padding: 20px 40px;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
 .App {
   text-align: center;
 }
